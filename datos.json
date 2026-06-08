@@ -1,0 +1,145 @@
+{
+  "Estudiantes": [
+    {
+      "Id": 1,
+      "Nombre": "Pepa"
+    },
+    {
+      "Id": 2,
+      "Nombre": "Suzy"
+    },
+    {
+      "Id": 3,
+      "Nombre": "Pedro"
+    },
+    {
+      "Id": 4,
+      "Nombre": "George"
+    },
+    {
+      "Id": 5,
+      "Nombre": "Zoe"
+    }
+  ],
+  "Materias": [
+    {
+      "Id": 101,
+      "Nombre": "Estructura de Datos"
+    },
+    {
+      "Id": 102,
+      "Nombre": "Programacion"
+    },
+    {
+      "Id": 103,
+      "Nombre": "Base de Datos"
+    },
+    {
+      "Id": 104,
+      "Nombre": "Analisis Numerico"
+    }
+  ],
+  "Inscripciones": [
+    {
+      "EstudianteId": 1,
+      "MateriaId": 101
+    },
+    {
+      "EstudianteId": 1,
+      "MateriaId": 102
+    },
+    {
+      "EstudianteId": 1,
+      "MateriaId": 103
+    },
+    {
+      "EstudianteId": 2,
+      "MateriaId": 101
+    },
+    {
+      "EstudianteId": 2,
+      "MateriaId": 102
+    },
+    {
+      "EstudianteId": 2,
+      "MateriaId": 104
+    },
+    {
+      "EstudianteId": 3,
+      "MateriaId": 103
+    },
+    {
+      "EstudianteId": 3,
+      "MateriaId": 104
+    },
+    {
+      "EstudianteId": 4,
+      "MateriaId": 101
+    },
+    {
+      "EstudianteId": 4,
+      "MateriaId": 104
+    },
+    {
+      "EstudianteId": 5,
+      "MateriaId": 102
+    }
+  ],
+  "Notas": [
+    {
+      "EstudianteId": 1,
+      "MateriaId": 101,
+      "Nota": 88
+    },
+    {
+      "EstudianteId": 1,
+      "MateriaId": 102,
+      "Nota": 75
+    },
+    {
+      "EstudianteId": 1,
+      "MateriaId": 103,
+      "Nota": 92
+    },
+    {
+      "EstudianteId": 2,
+      "MateriaId": 101,
+      "Nota": 70
+    },
+    {
+      "EstudianteId": 2,
+      "MateriaId": 102,
+      "Nota": 85
+    },
+    {
+      "EstudianteId": 2,
+      "MateriaId": 104,
+      "Nota": 91
+    },
+    {
+      "EstudianteId": 3,
+      "MateriaId": 103,
+      "Nota": 78
+    },
+    {
+      "EstudianteId": 3,
+      "MateriaId": 104,
+      "Nota": 78
+    },
+    {
+      "EstudianteId": 4,
+      "MateriaId": 101,
+      "Nota": 95
+    },
+    {
+      "EstudianteId": 4,
+      "MateriaId": 104,
+      "Nota": 83
+    },
+    {
+      "EstudianteId": 5,
+      "MateriaId": 102,
+      "Nota": 74
+    }
+  ]
+}
